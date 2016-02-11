@@ -29,15 +29,14 @@ namespace FileSplit
 
             Console.WriteLine("Total lines: " + count);
             int chunkSize = count / OutputCount;
-            StreamReader reader2 = new StreamReader(InputFileName);
-
-            for (int i = 0; i < OutputCount && !reader2.EndOfStream ; ++i)
+            reader.DiscardBufferedData();
+            for (int i = 0; i < OutputCount && !reader.EndOfStream ; ++i)
             {
-                Console.WriteLine("Write {0} document...", i);
+                Console.WriteLine("Writing {0} document...", i);
                 StreamWriter writer = new StreamWriter(Outputfolder + "\\out" + i + ".tsv");
-                for(int j = chunkSize * i; j < chunkSize*(i + 1) && !reader2.EndOfStream; j++)
+                for(int j = chunkSize * i; j < chunkSize*(i + 1) && !reader.EndOfStream; j++)
                 {
-                    writer.WriteLine(reader2.ReadLine());
+                    writer.WriteLine(reader.ReadLine());
                 }
                 writer.Flush();
             }

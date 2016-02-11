@@ -7,3 +7,4 @@ E:\GitRepo\FileSplit\FileSplit\FileSplit\obj\Release\FileSplit.exe.manifest
 E:\GitRepo\FileSplit\FileSplit\FileSplit\obj\Release\FileSplit.application
 E:\GitRepo\FileSplit\FileSplit\FileSplit\obj\Release\FileSplit.exe
 E:\GitRepo\FileSplit\FileSplit\FileSplit\obj\Release\FileSplit.pdb
+E:\GitRepo\FileSplit\FileSplit\FileSplit\obj\Release\FileSplit.csprojResolveAssemblyReference.cache
