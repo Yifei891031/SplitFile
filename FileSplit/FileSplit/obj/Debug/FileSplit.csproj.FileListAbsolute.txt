@@ -1,0 +1,10 @@
+E:\GitRepo\FileSplit\FileSplit\FileSplit\bin\Debug\FileSplit.exe.config
+E:\GitRepo\FileSplit\FileSplit\FileSplit\bin\Debug\FileSplit.exe
+E:\GitRepo\FileSplit\FileSplit\FileSplit\bin\Debug\FileSplit.pdb
+E:\GitRepo\FileSplit\FileSplit\FileSplit\obj\Debug\FileSplit.csprojResolveAssemblyReference.cache
+E:\GitRepo\FileSplit\FileSplit\FileSplit\obj\Debug\FileSplit.exe
+E:\GitRepo\FileSplit\FileSplit\FileSplit\obj\Debug\FileSplit.pdb
+E:\GitRepo\FileSplit\FileSplit\FileSplit\bin\Debug\FileSplit.exe.manifest
+E:\GitRepo\FileSplit\FileSplit\FileSplit\bin\Debug\FileSplit.application
+E:\GitRepo\FileSplit\FileSplit\FileSplit\obj\Debug\FileSplit.exe.manifest
+E:\GitRepo\FileSplit\FileSplit\FileSplit\obj\Debug\FileSplit.application

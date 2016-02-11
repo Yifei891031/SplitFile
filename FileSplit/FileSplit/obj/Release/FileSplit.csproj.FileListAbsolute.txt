@@ -1,0 +1,9 @@
+E:\GitRepo\FileSplit\FileSplit\FileSplit\bin\Release\FileSplit.exe.config
+E:\GitRepo\FileSplit\FileSplit\FileSplit\bin\Release\FileSplit.exe.manifest
+E:\GitRepo\FileSplit\FileSplit\FileSplit\bin\Release\FileSplit.application
+E:\GitRepo\FileSplit\FileSplit\FileSplit\bin\Release\FileSplit.exe
+E:\GitRepo\FileSplit\FileSplit\FileSplit\bin\Release\FileSplit.pdb
+E:\GitRepo\FileSplit\FileSplit\FileSplit\obj\Release\FileSplit.exe.manifest
+E:\GitRepo\FileSplit\FileSplit\FileSplit\obj\Release\FileSplit.application
+E:\GitRepo\FileSplit\FileSplit\FileSplit\obj\Release\FileSplit.exe
+E:\GitRepo\FileSplit\FileSplit\FileSplit\obj\Release\FileSplit.pdb
